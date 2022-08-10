@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743675521849",
+    "project_id": "ticketsystem1-202c3",
+    "storage_bucket": "ticketsystem1-202c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743675521849:android:67ad023b7ef5b51efb56e8",
+        "android_client_info": {
+          "package_name": "com.example.redmticketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743675521849-cvaen3fh259l252sku6en26og99g7j38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqACqDlT7t0yx-gmVowNrkNwwgIp96w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743675521849-cvaen3fh259l252sku6en26og99g7j38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
